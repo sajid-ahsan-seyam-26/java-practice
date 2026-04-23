@@ -1,4 +1,4 @@
-/*public class DataTypeDemo {
+public class DataTypeDemo {
     public static void main(String[] args) {
         int age = 26;
         double price = 499.99;
@@ -12,7 +12,7 @@
         System.out.println("Active: " + active);
     }
 }
-*/
+
 // type castinng 
 public class DataTypeDemo {
     public static void main(String[] args) {
